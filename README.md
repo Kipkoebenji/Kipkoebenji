@@ -6,11 +6,11 @@
 
 I'm a passionate **[Software Engineering]** with experience in **[Javascript,React, HTML, CSS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Pro Front End]**
-- 🔭 Working on: **[air-bnb-clone project]**
-- 🌍 Languages: **[C,C++, Js, HTML, CSS, SQL,Englisg and Kiswahili]**
-- 📫 How to reach me: **[kipkoech9275@gmail.com]**
-- ⚡ Fun fact: **[I'm good at problem solving]**
+- 🌱 Currently learning: **Pro Front End**
+- 🔭 Working on: **air-bnb-clone project**
+- 🌍 Languages: **C,C++, Js, HTML, CSS, SQL,Englisg and Kiswahili**
+- 📫 How to reach me: **kipkoech9275@gmail.com**
+- ⚡ Fun fact: **I'm good at problem solving**
 
 ## My Skills 🧠
 
@@ -20,26 +20,16 @@ I'm a passionate **[Software Engineering]** with experience in **[Javascript,Rea
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### Coming Soon !!
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/benjamin-kipkoech/)
+- **[Twitter]**(https://x.com/Benjikip75)
 
 
