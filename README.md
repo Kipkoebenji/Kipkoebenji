@@ -33,8 +33,8 @@ Very proficient with **Next js** ![Next.js](https://img.shields.io/badge/Next.js
 
 ## Get in Touch 📬
 
-- **Personal Website** (your_website_or_blog_link)
-- ![**LinkedIn**](https://www.linkedin.com/in/benjamin-kipkoech/) 
-- ![**Twitter**](https://x.com/Benjikip75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benjamin-kipkoech/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter)](https://x.com/Benjikip75)
+
 
 
