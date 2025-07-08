@@ -1,11 +1,10 @@
-# Hi there, I'm Benjamin Kipkoech Kipkoebeni! 👋
+# Hi there, I'm Benjamin Kipkoech ! 👋
 **Full‑stack developer • Next.js + TypeScript • C/C++ enthusiast**
-
-!(your_banner_image_url_here)
 
 ## About Me 🚀
 
 I'm a passionate **Software Engineer** with experience in **Javascript,React, Next js, HTML, CSS,Tailwind, Typescript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Very proficient with **Next js** ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
 - 🌱 Currently learning: **Pro Front End ALX**
 - 🔭 Working on: **air-bnb-clone project**
@@ -34,8 +33,8 @@ I'm a passionate **Software Engineer** with experience in **Javascript,React, Ne
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(https://www.linkedin.com/in/benjamin-kipkoech/)
-- **[Twitter]**(https://x.com/Benjikip75)
+- **Personal Website** (your_website_or_blog_link)
+- **LinkedIn** (https://www.linkedin.com/in/benjamin-kipkoech/) 
+- **Twitter** (https://x.com/Benjikip75)
 
 
