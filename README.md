@@ -1,13 +1,13 @@
 # Hi there, I'm Benjamin Kipkoech ! 👋
-**Full‑stack developer • Next.js + TypeScript • C/C++ enthusiast**
+**Full‑stack developer • Next.js + TypeScript • Node Express and also a C/C++ enthusiast**
 
 ## About Me 🚀
 
 I'm a passionate **Software Engineer** with experience in **Javascript,React, Next js, HTML, CSS,Tailwind, Typescript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 Very proficient with **Next js** ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
-- 🌱 Currently learning: **Pro Front End ALX**
-- 🔭 Working on: **air-bnb-clone project**
+- 🌱 Currently learning: **BLOCK CHAIN**
+- 🔭 Working on: **food delivery project**
 - 🌍 Languages: **Js, Typescript, HTML, CSS, SQL, C, C++, English and Kiswahili**
 - 📫 How to reach me: **kipkoech9275@gmail.com**
 - ⚡ Fun fact: **I'm good at problem solving**
@@ -24,12 +24,6 @@ Very proficient with **Next js** ![Next.js](https://img.shields.io/badge/Next.js
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-
-
-
-## Featured Projects 💻
-
-### Coming Soon !!
 
 ## Get in Touch 📬
 
