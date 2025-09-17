@@ -1,5 +1,5 @@
 # Hi there, I'm Benjamin Kipkoech ! 👋
-**Full‑stack developer • Next.js + TypeScript • Node Express and also a C/C++ enthusiast**
+**Full‑stack developer • Next.js + TypeScript • Node.js + Express and also a C/C++ enthusiast**
 
 ## About Me 🚀
 
